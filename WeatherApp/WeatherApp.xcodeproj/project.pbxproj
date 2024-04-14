@@ -13,6 +13,7 @@
 		D861A7192BCC4D350093A4F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D861A7182BCC4D350093A4F1 /* Assets.xcassets */; };
 		D861A71C2BCC4D350093A4F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D861A71A2BCC4D350093A4F1 /* LaunchScreen.storyboard */; };
 		D861A7282BCC645F0093A4F1 /* WeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D861A7272BCC645F0093A4F1 /* WeatherModel.swift */; };
+		D861A72A2BCC66E50093A4F1 /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D861A7292BCC66E50093A4F1 /* WeatherData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D861A71B2BCC4D350093A4F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D861A71D2BCC4D350093A4F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D861A7272BCC645F0093A4F1 /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
+		D861A7292BCC66E50093A4F1 /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				D861A7272BCC645F0093A4F1 /* WeatherModel.swift */,
+				D861A7292BCC66E50093A4F1 /* WeatherData.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D861A7142BCC4D330093A4F1 /* ViewController.swift in Sources */,
+				D861A72A2BCC66E50093A4F1 /* WeatherData.swift in Sources */,
 				D861A7102BCC4D330093A4F1 /* AppDelegate.swift in Sources */,
 				D861A7122BCC4D330093A4F1 /* SceneDelegate.swift in Sources */,
 				D861A7282BCC645F0093A4F1 /* WeatherModel.swift in Sources */,
