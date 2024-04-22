@@ -15,6 +15,7 @@
 		D861A7282BCC645F0093A4F1 /* WeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D861A7272BCC645F0093A4F1 /* WeatherModel.swift */; };
 		D861A72A2BCC66E50093A4F1 /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D861A7292BCC66E50093A4F1 /* WeatherData.swift */; };
 		D8C30FA12BD6363300049724 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C30FA02BD6363300049724 /* MainViewController.swift */; };
+		D8C30FA32BD64A1F00049724 /* WeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C30FA22BD64A1F00049724 /* WeatherManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		D861A7272BCC645F0093A4F1 /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
 		D861A7292BCC66E50093A4F1 /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
 		D8C30FA02BD6363300049724 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		D8C30FA22BD64A1F00049724 /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 			children = (
 				D861A7272BCC645F0093A4F1 /* WeatherModel.swift */,
 				D861A7292BCC66E50093A4F1 /* WeatherData.swift */,
+				D8C30FA22BD64A1F00049724 /* WeatherManager.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -177,6 +180,7 @@
 			files = (
 				D861A7142BCC4D330093A4F1 /* ViewController.swift in Sources */,
 				D861A72A2BCC66E50093A4F1 /* WeatherData.swift in Sources */,
+				D8C30FA32BD64A1F00049724 /* WeatherManager.swift in Sources */,
 				D861A7102BCC4D330093A4F1 /* AppDelegate.swift in Sources */,
 				D8C30FA12BD6363300049724 /* MainViewController.swift in Sources */,
 				D861A7122BCC4D330093A4F1 /* SceneDelegate.swift in Sources */,
